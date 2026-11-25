@@ -16,7 +16,7 @@ export default function ProfilePage() {
         {/* Avatar */}
         <div className="relative h-24 w-24 flex-shrink-0 overflow-hidden rounded-full border-2 border-slate-200">
           <ResilientImage
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+            src="https://media.licdn.com/dms/image/v2/D4D03AQEEjlULBm4kIg/profile-displayphoto-scale_100_100/B4DaF0f4S2HkAY-/0/1792955877729?e=1796860800&v=beta&t=arSjMe_xykBQBCBtw-OY9-34aTdpNaOoSTetOEQtS48"
             alt="User profile picture"
             className="object-cover"
           />

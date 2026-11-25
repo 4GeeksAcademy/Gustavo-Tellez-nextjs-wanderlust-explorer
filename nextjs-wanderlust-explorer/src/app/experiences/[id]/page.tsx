@@ -2,6 +2,8 @@ import { notFound } from "next/navigation";
 import { experiences, type Experience } from "@/data/experiences";
 import ExperienceDetailContent from "@/components/ExperienceDetailContent";
 
+export const instant = false;
+
 export function generateStaticParams() {
   return experiences.map((experience) => ({
     id: String(experience.id),
