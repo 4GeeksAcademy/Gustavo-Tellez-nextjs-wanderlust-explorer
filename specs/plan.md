@@ -2,7 +2,7 @@
 
 ## Purpose and constraints
 
-Implement the product defined in [`specs.md`](./specs.md), using `sryle-reference/DESIGN-tourismo.md` and `sryle-reference/home-tourismo.jpg` as visual guidance. The screenshot is a style and composition reference only: its Nepal-specific content must not make the product Nepal-only, and it does not add unrequested features.
+Implement the product defined in [`specs.md`](./specs.md), using `style-reference/DESIGN-turismo.md` and `style-reference/home-turismo.jpg` as visual guidance. The screenshot is a style and composition reference only: its Nepal-specific content must not make the product Nepal-only, and it does not add unrequested features.
 
 This plan does not authorize implementation of backend services, external APIs, a database, authentication, booking, payments, testimonials, travel-process steps, tailor-made services, or experience duration. Favorites remain in memory unless an authoritative requirement changes. The canonical palette is primary midnight navy `#07111E` and secondary cerulean `#2563EB`.
 

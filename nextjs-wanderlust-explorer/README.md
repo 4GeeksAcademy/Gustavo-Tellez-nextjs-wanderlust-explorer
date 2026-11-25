@@ -24,5 +24,5 @@ Favorites are held in memory and reset when the application session ends. The ap
 
 ## Design References
 
-- The repository's local visual guide is [DESIGN-tourismo.md](../sryle-reference/DESIGN-tourismo.md). Its screenshot is inspiration only; Nepal-specific content and out-of-scope sections are not product requirements.
+- The repository's local visual guide is [DESIGN-tourismo.md](../style-reference/DESIGN-tourismo.md). Its screenshot is inspiration only; Nepal-specific content and out-of-scope sections are not product requirements.
 - Selection of 2–3 external web design references is pending verification. No external URLs are listed until they have been confirmed.

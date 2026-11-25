@@ -328,7 +328,7 @@ These are architectural responsibilities, not implementation instructions requir
 - Make navigation and filters intuitive and provide visible feedback when favorites change.
 - Provide empty and not-found states instead of blank content.
 - Ensure that controls have visible focus and selected states.
-- Treat `sryle-reference/DESIGN-tourismo.md` and `sryle-reference/home-tourismo.jpg` as visual references for style and composition, not as literal product-content requirements. The screenshot depicts Nepal; the application must represent the experiences and destinations in its own local dataset rather than being presented as a Nepal-only service.
+- Treat `sryle-reference/DESIGN-tourismo.md` and `sryle-reference/home-turismo.jpg` as visual references for style and composition, not as literal product-content requirements. The screenshot depicts Nepal; the application must represent the experiences and destinations in its own local dataset rather than being presented as a Nepal-only service.
 - Use the canonical palette: deep midnight navy (`#07111E`) as the primary color, expedition cerulean (`#2563EB`) as the secondary accent, alpine slate (`#475569`) for supporting text, and mist white (`#F8F9FA`) as the light canvas. Where the design guide's token header conflicts with its descriptive palette, these canonical values take precedence.
 - Use Plus Jakarta Sans for structural typography and selective italic Playfair Display accents for editorial emphasis. Use uppercase, letter-spaced micro-labels where appropriate.
 - Favor generous whitespace and editorial section spacing; use a constrained, fluid content width and responsive column layouts. The reference's 4-column mobile, 8-column tablet, and 12-column desktop grid is guidance, not a requirement for every component.
@@ -460,7 +460,7 @@ The existing repository already has `src/app` and `src/data`. The structure abov
 
 ## 21. Design References
 
-The repository contains `sryle-reference/DESIGN-tourismo.md` and `sryle-reference/home-tourismo.jpg`. They provide a visual direction and a page-composition example for the “Serene Editorial Expedition” style. The screenshot's Nepal-specific content is illustrative only; it is not a requirement to use Nepal as the sole destination or to reproduce its literal copy and sections.
+The repository contains `sryle-reference/DESIGN-tourismo.md` and `sryle-reference/home-turismo.jpg`. They provide a visual direction and a page-composition example for the “Serene Editorial Expedition” style. The screenshot's Nepal-specific content is illustrative only; it is not a requirement to use Nepal as the sole destination or to reproduce its literal copy and sections.
 
 The canonical palette for this project is primary deep midnight navy (`#07111E`) and secondary expedition cerulean (`#2563EB`), with alpine slate (`#475569`) and mist white (`#F8F9FA`) as supporting colors. These values take precedence over conflicting color values in the reference document's token header.
 
